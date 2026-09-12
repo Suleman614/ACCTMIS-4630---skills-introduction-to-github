@@ -1,4 +1,4 @@
-# Introduction to GitHub
+# ACCTMIS 4630 Assignment - Introduction to GitHub
 
 _Get started using GitHub in less than an hour._
 
